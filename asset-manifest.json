@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/fluencer-web/static/css/main.e35c7edd.css",
+    "main.js": "/fluencer-web/static/js/main.dd6299a3.js",
+    "static/js/787.a9136a80.chunk.js": "/fluencer-web/static/js/787.a9136a80.chunk.js",
+    "static/media/Software Development.jpg": "/fluencer-web/static/media/Software Development.0ac841e41e3c641f022a.jpg",
+    "static/media/BGVideo.mp4": "/fluencer-web/static/media/BGVideo.a45af1f474d63cacca63.mp4",
+    "static/media/Website Development.jpg": "/fluencer-web/static/media/Website Development.34ee10c633238296b76b.jpg",
+    "static/media/Contact Us.jpg": "/fluencer-web/static/media/Contact Us.377c8baff64968c87d55.jpg",
+    "static/media/software-img.jpg": "/fluencer-web/static/media/software-img.7e554cd8779269681e55.jpg",
+    "static/media/Myple.jpg": "/fluencer-web/static/media/Myple.c7b3213299eea9d72ece.jpg",
+    "static/media/Artificial Intelligence.jpg": "/fluencer-web/static/media/Artificial Intelligence.1e4ed9c3347b457c16ad.jpg",
+    "static/media/MaskGroup.png": "/fluencer-web/static/media/MaskGroup.e19401a7a276ed24eec7.png",
+    "static/media/Keithston.jpg": "/fluencer-web/static/media/Keithston.1a40da48504323976988.jpg",
+    "static/media/Sandesh Foundation.jpg": "/fluencer-web/static/media/Sandesh Foundation.bd2bb87d4f865a64fab5.jpg",
+    "static/media/Garol Advisory.jpg": "/fluencer-web/static/media/Garol Advisory.90336774b4964306f7e2.jpg",
+    "static/media/Mobile.jpg": "/fluencer-web/static/media/Mobile.58cb5b13b1fe6c2a4f94.jpg",
+    "static/media/Kanmart.jpg": "/fluencer-web/static/media/Kanmart.0a1b8e7103490adbff8c.jpg",
+    "static/media/Mobile-App.png": "/fluencer-web/static/media/Mobile-App.765e3b429d3c0024f812.png",
+    "static/media/Image 3.jpg": "/fluencer-web/static/media/Image 3.e285add056e3159764a7.jpg",
+    "static/media/AI.jpg": "/fluencer-web/static/media/AI.f3329870622e6039727b.jpg",
+    "static/media/Image 6.jpg": "/fluencer-web/static/media/Image 6.39d1eb138555d80d814f.jpg",
+    "static/media/Image 4.jpg": "/fluencer-web/static/media/Image 4.de2a1ff1707f1c80a52b.jpg",
+    "static/media/Image 5.jpg": "/fluencer-web/static/media/Image 5.0d2faf7202a3983a7db5.jpg",
+    "static/media/Image 1.jpg": "/fluencer-web/static/media/Image 1.fe91d5b8d39ce4a224b0.jpg",
+    "static/media/Image 2.jpg": "/fluencer-web/static/media/Image 2.c738c9da052b5a26387d.jpg",
+    "static/media/quotes-3.png": "/fluencer-web/static/media/quotes-3.28b184f88a1cc1c1e6ba.png",
+    "static/media/Background-removebg-preview.png": "/fluencer-web/static/media/Background-removebg-preview.376ab688475f88ed9003.png",
+    "static/media/Logo.png": "/fluencer-web/static/media/Logo.ae68474872e6d257d0f3.png",
+    "static/media/REACT JS.png": "/fluencer-web/static/media/REACT JS.4d34baf2c0902e36dbdd.png",
+    "static/media/Sandesh Foundation.png": "/fluencer-web/static/media/Sandesh Foundation.facbc1a4f240eb123115.png",
+    "static/media/image (4).png": "/fluencer-web/static/media/image (4).cdf4aef9f5ecc2dc9643.png",
+    "index.html": "/fluencer-web/index.html",
+    "main.e35c7edd.css.map": "/fluencer-web/static/css/main.e35c7edd.css.map",
+    "main.dd6299a3.js.map": "/fluencer-web/static/js/main.dd6299a3.js.map",
+    "787.a9136a80.chunk.js.map": "/fluencer-web/static/js/787.a9136a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35c7edd.css",
+    "static/js/main.dd6299a3.js"
+  ]
+}
