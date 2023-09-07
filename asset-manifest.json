@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fluencer-web/static/css/main.e83a3f45.css",
-    "main.js": "/fluencer-web/static/js/main.dd6299a3.js",
+    "main.css": "/fluencer-web/static/css/main.5b76ffa8.css",
+    "main.js": "/fluencer-web/static/js/main.eacccf85.js",
     "static/js/787.a9136a80.chunk.js": "/fluencer-web/static/js/787.a9136a80.chunk.js",
     "static/media/Software Development.jpg": "/fluencer-web/static/media/Software Development.0ac841e41e3c641f022a.jpg",
     "static/media/BGVideo.mp4": "/fluencer-web/static/media/BGVideo.a45af1f474d63cacca63.mp4",
@@ -31,12 +31,12 @@
     "static/media/Sandesh Foundation.png": "/fluencer-web/static/media/Sandesh Foundation.facbc1a4f240eb123115.png",
     "static/media/image (4).png": "/fluencer-web/static/media/image (4).cdf4aef9f5ecc2dc9643.png",
     "index.html": "/fluencer-web/index.html",
-    "main.e83a3f45.css.map": "/fluencer-web/static/css/main.e83a3f45.css.map",
-    "main.dd6299a3.js.map": "/fluencer-web/static/js/main.dd6299a3.js.map",
+    "main.5b76ffa8.css.map": "/fluencer-web/static/css/main.5b76ffa8.css.map",
+    "main.eacccf85.js.map": "/fluencer-web/static/js/main.eacccf85.js.map",
     "787.a9136a80.chunk.js.map": "/fluencer-web/static/js/787.a9136a80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e83a3f45.css",
-    "static/js/main.dd6299a3.js"
+    "static/css/main.5b76ffa8.css",
+    "static/js/main.eacccf85.js"
   ]
 }
